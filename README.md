@@ -1,3 +1,5 @@
+# Note: This project has been maintained as a hobby project beyond the completion of the Internship
+---
 # Satisfaction-Aware Task Assignment Problem (SATA)
 
 ## Table of Contents
